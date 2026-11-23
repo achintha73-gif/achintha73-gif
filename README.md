@@ -122,15 +122,6 @@ const achintha = {
 
 ---
 
-## 🧊 3D Contribution Activity
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph"/>
-
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
