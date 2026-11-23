@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0F172A,50:312E81,100:0891B2&text=ACHINTHA%20BUDDHIMA&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20IT%20UNDERGRADUATE&descAlignY=58&descSize=15" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Software+Engineering+Enthusiast;Building+Modern+Web+%26+Mobile+Apps;Exploring+AI+%26+Machine+Learning;Always+Learning+%7C+Always+Building" />
@@ -12,6 +11,9 @@
 </a>
 <a href="https://achintha-dev.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:achinthabuddhima73@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=achintha73-gif&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS"/>
@@ -49,7 +51,7 @@ const achintha = {
 - 🚀 Experienced in web and mobile application development.
 - 🤖 Interested in AI, Machine Learning and emerging technologies.
 - 🏗️ Enjoy working with REST APIs, databases and software architecture.
-- 🤝 Open to collaboration, internships and exciting development opportunities.
+- 🤝 Open to collaboration, internships and development opportunities.
 
 ---
 
@@ -91,7 +93,7 @@ const achintha = {
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,maven,netlify" />
 </p>
 
-### Other Technologies & Concepts
+### Other Technologies
 
 <p>
 <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
@@ -132,8 +134,6 @@ A multilingual platform connecting citizens with local government services.
 
 **Full-Stack Web Application**
 
-A modern web application built with a responsive frontend and backend API.
-
 - User Authentication
 - REST API Development
 - MongoDB Atlas Integration
@@ -150,8 +150,6 @@ A modern web application built with a responsive frontend and backend API.
 
 **Microservices-Based Application**
 
-Working on a distributed application architecture.
-
 - Payment Service Development
 - REST API Integration
 - Independent Microservices
@@ -165,14 +163,12 @@ Working on a distributed application architecture.
 
 **Secure Reporting Management System**
 
-A web-based system designed to support confidential reporting and case management.
-
 - Secure User Authentication
 - Complaint & Case Management
 - Evidence Management
 - Investigation Workflow
 
-**Stack:** Next.js, TypeScript, MySQL, Prisma, Tailwind CSS
+**Stack:** Next.js, TypeScript, MySQL, Tailwind CSS
 
 </td>
 </tr>
@@ -232,16 +228,20 @@ A web-based system designed to support confidential reporting and case managemen
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://achintha-dev.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/achintha-b-rathnayaka-41a386339/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_INSTAGRAM_URL">
+<a href="https://www.instagram.com/_achiya._/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="mailto:achinthabuddhima73@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://achintha-dev.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </div>
