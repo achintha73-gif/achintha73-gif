@@ -57,51 +57,64 @@ const achintha = {
 
 ## ⚡ Technical Arsenal
 
-### Programming Languages
+### 💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=js,ts,java,python,cs,html,css" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,java,python,cs,js,ts,html,css" />
 </p>
 
-### Frontend Development
+### 🎨 Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
 </p>
 
-### Backend Development
+### ⚙️ Backend Development & Frameworks
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,dotnet" />
 </p>
 
-### Mobile Development
+### 🖥️ Application Servers
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,flutter" />
+<p align="left">
+  <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black" />
 </p>
 
-### Databases & ORM
+### 📱 Mobile Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,oracle,prisma" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flutter" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </p>
 
-### DevOps, Tools & Platforms
+### 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,maven,netlify" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,oracle" />
 </p>
 
-### Other Technologies
+### 🔧 ORM & Database Tools
 
-<p>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RBAC-6D28D9?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Microservices-0891B2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo"/>
-<img src="https://img.shields.io/badge/Nodemailer-22A6B3?style=for-the-badge"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=prisma" />
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
+
+### ☁️ DevOps & Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,maven,netlify" />
+</p>
+
+### 🔐 Other Technologies & Concepts
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RBAC-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-0891B2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nodemailer-22A6B3?style=for-the-badge" />
 </p>
 
 ## 📊 GitHub Analytics
