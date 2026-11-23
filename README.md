@@ -104,86 +104,6 @@ const achintha = {
 <img src="https://img.shields.io/badge/Nodemailer-22A6B3?style=for-the-badge"/>
 </p>
 
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌍 VillageFlow
-
-**Full-Stack E-Governance Platform**
-
-A multilingual platform connecting citizens with local government services.
-
-- Smart Appointment Scheduling
-- SMS & Email Notifications
-- Role-Based Access Control
-- AI Assistant Integration
-
-**Stack:** React, React Native, Expo, Node.js, Express, MongoDB
-
-[View Project →](https://github.com/IT24102173/VillageFlow)
-
-</td>
-<td width="50%">
-
-### 📋 BoardNest
-
-**Full-Stack Web Application**
-
-- User Authentication
-- REST API Development
-- MongoDB Atlas Integration
-- Responsive UI
-
-**Stack:** HTML, Tailwind CSS, JavaScript, Node.js, Express, MongoDB
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚗 RideLink
-
-**Microservices-Based Application**
-
-- Payment Service Development
-- REST API Integration
-- Independent Microservices
-
-**Stack:** Node.js, Microservices, REST APIs
-
-</td>
-<td width="50%">
-
-### 🔐 Whistleblowing System
-
-**Secure Reporting Management System**
-
-- Secure User Authentication
-- Complaint & Case Management
-- Evidence Management
-- Investigation Workflow
-
-**Stack:** Next.js, TypeScript, MySQL, Tailwind CSS
-
-</td>
-</tr>
-</table>
-
----
-
-## 🏆 Certifications & Achievements
-
-- 🎓 AI/ML Engineer – Stage 1 | SLIIT
-- 🎓 AI/ML Engineer – Stage 3 | SLIIT
-- 🏅 Presented VillageFlow at DTECBIZ 2026 Research Symposium – SLIIT Kandy.
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -199,26 +119,32 @@ A multilingual platform connecting citizens with local government services.
 </div>
 
 ---
-
-## 🧊 3D Contribution Activity
-
-<div align="center">
-
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D GitHub Contribution Graph"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/achintha73-gif/achintha73-gif/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake"/>
+<!-- Contribution Activity -->
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=achintha73-gif&theme=tokyo-night&hide_border=true&area=true"
+alt="GitHub Activity Graph"/>
+
+<!-- GitHub Stats -->
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api?username=achintha73-gif&show_icons=true&theme=tokyonight&hide_border=true"
+alt="GitHub Stats"/>
+
+<img width="49%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=achintha73-gif&layout=compact&theme=tokyonight&hide_border=true"
+alt="Top Languages"/>
+
+<!-- Streak Stats -->
+<img width="80%"
+src="https://streak-stats.demolab.com?user=achintha73-gif&theme=tokyonight&hide_border=true"
+alt="GitHub Streak"/>
 
 </div>
-
 ---
+
 
 ## 🌐 Connect With Me
 
